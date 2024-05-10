@@ -1,0 +1,28 @@
+C:\Users\Евгения\source\repos\SRORT REZHIM1\SRORT REZHIM1\bin\Debug\SRORT REZHIM1.exe.config
+C:\Users\Евгения\source\repos\SRORT REZHIM1\SRORT REZHIM1\bin\Debug\SRORT REZHIM1.exe
+C:\Users\Евгения\source\repos\SRORT REZHIM1\SRORT REZHIM1\bin\Debug\SRORT REZHIM1.pdb
+C:\Users\Евгения\source\repos\SRORT REZHIM1\SRORT REZHIM1\bin\Debug\EPPlus.dll
+C:\Users\Евгения\source\repos\SRORT REZHIM1\SRORT REZHIM1\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Евгения\source\repos\SRORT REZHIM1\SRORT REZHIM1\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Евгения\source\repos\SRORT REZHIM1\SRORT REZHIM1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Евгения\source\repos\SRORT REZHIM1\SRORT REZHIM1\bin\Debug\System.Buffers.dll
+C:\Users\Евгения\source\repos\SRORT REZHIM1\SRORT REZHIM1\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Евгения\source\repos\SRORT REZHIM1\SRORT REZHIM1\bin\Debug\System.Memory.dll
+C:\Users\Евгения\source\repos\SRORT REZHIM1\SRORT REZHIM1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Евгения\source\repos\SRORT REZHIM1\SRORT REZHIM1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Евгения\source\repos\SRORT REZHIM1\SRORT REZHIM1\bin\Debug\EPPlus.xml
+C:\Users\Евгения\source\repos\SRORT REZHIM1\SRORT REZHIM1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Евгения\source\repos\SRORT REZHIM1\SRORT REZHIM1\bin\Debug\System.Buffers.xml
+C:\Users\Евгения\source\repos\SRORT REZHIM1\SRORT REZHIM1\bin\Debug\System.Memory.xml
+C:\Users\Евгения\source\repos\SRORT REZHIM1\SRORT REZHIM1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Евгения\source\repos\SRORT REZHIM1\SRORT REZHIM1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Евгения\source\repos\SRORT REZHIM1\SRORT REZHIM1\obj\Debug\SRORT REZHIM1.csproj.AssemblyReference.cache
+C:\Users\Евгения\source\repos\SRORT REZHIM1\SRORT REZHIM1\obj\Debug\SRORT_REZHIM1.Form1.resources
+C:\Users\Евгения\source\repos\SRORT REZHIM1\SRORT REZHIM1\obj\Debug\SRORT_REZHIM1.Properties.Resources.resources
+C:\Users\Евгения\source\repos\SRORT REZHIM1\SRORT REZHIM1\obj\Debug\SRORT REZHIM1.csproj.GenerateResource.cache
+C:\Users\Евгения\source\repos\SRORT REZHIM1\SRORT REZHIM1\obj\Debug\SRORT REZHIM1.csproj.CoreCompileInputs.cache
+C:\Users\Евгения\source\repos\SRORT REZHIM1\SRORT REZHIM1\obj\Debug\SRORT RE.9812C4B7.Up2Date
+C:\Users\Евгения\source\repos\SRORT REZHIM1\SRORT REZHIM1\obj\Debug\SRORT REZHIM1.exe
+C:\Users\Евгения\source\repos\SRORT REZHIM1\SRORT REZHIM1\obj\Debug\SRORT REZHIM1.pdb
+C:\Users\Евгения\source\repos\SRORT REZHIM1\SRORT REZHIM1\bin\Debug\EPPlus.Core.Extensions.dll
+C:\Users\Евгения\source\repos\SRORT REZHIM1\SRORT REZHIM1\bin\Debug\EPPlus.Core.Extensions.xml
