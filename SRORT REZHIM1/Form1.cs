@@ -19,7 +19,6 @@ namespace SRORT_REZHIM1
         {
             InitializeComponent();
         }
-
         private void button1_Click(object sender, EventArgs e)
         {
             dataGridView1.Rows.Clear();
@@ -45,9 +44,7 @@ namespace SRORT_REZHIM1
                     dataGridView1.Rows.Add(values);
                 }
             }
-
         }
-
         private void button3_Click(object sender, EventArgs e)
         {
 
