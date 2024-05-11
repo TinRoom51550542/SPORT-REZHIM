@@ -19,7 +19,7 @@ namespace SRORT_REZHIM1
         {
             InitializeComponent();
         }
-        private void button1_Click(object sender, EventArgs e)
+        private void btnOpenFile_Click(object sender, EventArgs e)
         {
             dataGridView1.Rows.Clear();
             dataGridView1.Columns.Clear();
@@ -45,15 +45,19 @@ namespace SRORT_REZHIM1
                 }
             }
         }
-        private void button3_Click(object sender, EventArgs e)
+        private void btnForecast_Click(object sender, EventArgs e)
         {
 
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void btnSumKm_Click(object sender, EventArgs e)
         {
 
         }
-        
+
+        private void btnPaintGraphics_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

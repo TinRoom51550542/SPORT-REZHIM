@@ -43,6 +43,8 @@
             this.textBox3 = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
+            this.textBox4 = new System.Windows.Forms.TextBox();
+            this.label4 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.chart1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
@@ -81,7 +83,7 @@
             this.button1.TabIndex = 2;
             this.button1.Text = "Открыть файл";
             this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.button1.Click += new System.EventHandler(this.btnOpenFile_Click);
             // 
             // button2
             // 
@@ -91,7 +93,7 @@
             this.button2.TabIndex = 3;
             this.button2.Text = "Вычислить сумму км. за выходные дни";
             this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
+            this.button2.Click += new System.EventHandler(this.btnSumKm_Click);
             // 
             // label1
             // 
@@ -117,7 +119,7 @@
             this.button3.TabIndex = 6;
             this.button3.Text = "Прогнозирование";
             this.button3.UseVisualStyleBackColor = true;
-            this.button3.Click += new System.EventHandler(this.button3_Click);
+            this.button3.Click += new System.EventHandler(this.btnForecast_Click);
             // 
             // textBox2
             // 
@@ -134,6 +136,7 @@
             this.button4.TabIndex = 8;
             this.button4.Text = "Построить графики";
             this.button4.UseVisualStyleBackColor = true;
+            this.button4.Click += new System.EventHandler(this.btnPaintGraphics_Click);
             // 
             // textBox3
             // 
@@ -160,12 +163,30 @@
             this.label3.TabIndex = 12;
             this.label3.Text = "Таблица с данными";
             // 
+            // textBox4
+            // 
+            this.textBox4.Location = new System.Drawing.Point(482, 438);
+            this.textBox4.Name = "textBox4";
+            this.textBox4.Size = new System.Drawing.Size(100, 22);
+            this.textBox4.TabIndex = 13;
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(338, 441);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(112, 16);
+            this.label4.TabIndex = 14;
+            this.label4.Text = "Индекс столбца";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Pink;
-            this.ClientSize = new System.Drawing.Size(1298, 450);
+            this.ClientSize = new System.Drawing.Size(1298, 482);
+            this.Controls.Add(this.label4);
+            this.Controls.Add(this.textBox4);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.textBox3);
@@ -201,6 +222,8 @@
         private System.Windows.Forms.TextBox textBox3;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.TextBox textBox4;
+        private System.Windows.Forms.Label label4;
     }
 }
 
